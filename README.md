@@ -1,2 +1,2 @@
-# Polynomial-fitting
-Polynomial fitting
+# Polynomial-fitting with PyTorch
+Polynomial fitting with PyTorch
